@@ -3,7 +3,7 @@
 
 ## Find me around the web 🌎
 
-Linkedin <a href="www.linkedin.com/in/joseangeljimenezruiz"
+<a href="www.linkedin.com/in/joseangeljimenezruiz">Linkedin </a>
 
 
  
