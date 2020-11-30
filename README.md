@@ -1,16 +1,5 @@
 ### Hi, I´m José 👋🏼 👨🏽‍💻
-🔭 I’m currently working on UX Research
-
-<!--
-**joangeljimenez/joangeljimenez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+🔭 I’m a psychologist who is passionate about Customer and User experience. Skilled in Statistical Data Analysis, Data modeling and survey design, the focus of my work is on use data to examine and explain human behavior, decision-making, and how they impact the world. Interdisciplinary work experience and training give me a rare combination of skills tu use quantitative and qualitative methods. 
 
 
-🌱 I’m currently learning 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: joangeljimenez@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
