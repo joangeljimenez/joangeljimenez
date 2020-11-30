@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, I´m José 👋🏼 👨🏽‍💻
 🔭 I’m currently working on UX Research
 
 <!--
