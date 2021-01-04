@@ -1,5 +1,5 @@
 ### Hi, I´m José 👋🏼 👨🏽‍💻
-🔭 I’m a psychologist who is passionate about data and customer experience. The focus of my work is use quantitative data to find insigths that help improve products, services and business metrics through data driven decisions.
+🔭 I’m a psychologist who is passionate about data and customer experience. The focus of my work is use quantitative data to find insigths that help improve products, services and business metrics through data informed decisions.
 
 ## Find me around the web 🌎 
 
